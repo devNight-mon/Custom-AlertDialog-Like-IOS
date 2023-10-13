@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="green">#99cc33</color>
+    <color name="red">#cc3300</color>
+    <color name="yellow">#ffcc00</color>
+    <color name="royal_hunter_blue">#2186f5</color>
+    <color name="silver_foil">#afafae</color>
+    <color name="neon_silver">#c7c6c7</color>
+    <color name="richBlack">#020302</color>
+    <color name="gray87">#DEDEDE</color>
+</resources>
